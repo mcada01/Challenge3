@@ -1,0 +1,47 @@
+.chuck-class {
+  /*display: block;*/
+  max-width: 100%;
+  height: auto;
+  /*display: block;*/
+  margin-right: auto;
+  margin-left: auto;
+  width: 320px;
+  height: 320px;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+#container {
+  background-color: #eee;
+  border-radius: 10px;
+  margin-top: 5%;
+  max-width: 800px;
+  padding: 15px;
+  margin: auto;
+}
+
+.text-center {
+  text-align: center;
+  padding-top: 30px;
+
+}
+
+#footer {
+  margin-top: 3em;
+  color: #8c8c8c;
+  padding-top: 20px;
+}
+
+#joke {
+  border: 2px dashed #424242;
+  /*margin-top: 1em;*/
+  color: #424242;
+  opacity: 0.5;
+  border-radius: 15px;
+  padding: 20px 20px;
+  margin: 0 0 20px;
+  font-size: 20px;
+
+}
